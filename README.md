@@ -1,5 +1,5 @@
 # virtual_mouse
-index finger helps to move the cursor and use two fingers to select the point
+Index finger helps to move the cursor and use two fingers to select the point
 
 #### Installation
 ````bash
