@@ -1,5 +1,5 @@
 # virtual_mouse
-Index finger helps to move the cursor and use two fingers to select the point
+Designed a Python-based AI system using openCV for mouse control. Utilizing real-time camera input, the system detects hand landmarks and tracks gesture patterns, eliminating the need for a physical mouse. The index finger helps to track the pointer and mid-finger is used to select the point. The smoothness and frame margin can be controlled by updating the respective variables.
 
 #### Installation
 ````bash
