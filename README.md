@@ -9,3 +9,6 @@ conda activate py38
 pip install -r requirements.txt
 python virtual_mouse.py
 ````
+
+#### Installation
+Inspired by the concepts presented in the tutorial, [https://www.youtube.com/watch?v=8gPONnGIPgw&t=397s]
